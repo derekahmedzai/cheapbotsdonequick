@@ -39,11 +39,5 @@ Text is great, but the reason that I love Cheap Bots Done Quick is that you can 
 <img src="https://pbs.twimg.com/media/C4FfBLVWQAA0DxE.jpg:large" width="20%" />
 <img src="https://pbs.twimg.com/media/C4FuJerW8AA4jOn.jpg:large" width="20%" />
 
-## Make your own New Yorker cartoon Twitter bot
-
-### Steps
-* Create a Twitter account
-* Create a Cheap Bots Done Quick app
-* Copy and edit this Tracery code
-* Make it yours
-  - Colours, fonts, text, images
+## Tutorials
+* [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md)
