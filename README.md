@@ -30,7 +30,14 @@ Hello Mars
 Hello Earth
 ```
 
+Here's one of the best Cheap Bots Done Quick tutorials - http://barrl.net/2767
+
 Text is great, but the reason that I love Cheap Bots Done Quick is that you can define images in SVG that are part of the tweet.
+
+<img src="https://pbs.twimg.com/media/C4CyQpaXAAAAssZ.jpg:large" width="20%" />
+<img src="https://pbs.twimg.com/media/C4JHhlqWYAA2s6N.png:large" width="20%" />
+<img src="https://pbs.twimg.com/media/C4FfBLVWQAA0DxE.jpg:large" width="20%" />
+<img src="https://pbs.twimg.com/media/C4FuJerW8AA4jOn.jpg:large" width="20%" />
 
 ## Make your own New Yorker cartoon Twitter bot
 
