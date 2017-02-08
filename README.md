@@ -19,7 +19,7 @@ Tokens (wrapped with a hash like `#this#`) are expanded from this:
 ```javascript
 {
   "origin" : "Hello #planets#",
-  "planets" : ["Mercury", "Venus", "Mars", "Earth"],
+  "planets" : ["Mercury", "Venus", "Mars", "Earth"]
 }
 ```
 into any of these (it picks a value randomly each time it runs):
