@@ -42,6 +42,7 @@ Choose how often to tweet. Once an hour is plenty!
 ### Easy
 * change the text by editing the "text" value. Some characters, like quotes and hashtags need to be escaped (with a slash `\`)
 * change the hashtags by editing the "hashtag" value
+* change the image by editing the "new_yorker_image" value
 
 ### Advanced
 * use SVG filters to change the image - colour, blur, flip it
