@@ -1,5 +1,10 @@
 # Make your own New Yorker cartoon Twitter bot
 
+Yes, you too can make a bot that spews out pictures like these:
+
+<a href="https://twitter.com/time4gametheory/status/827690849245003776"><img src="https://pbs.twimg.com/media/C3yMcGQWAAIqH7i.jpg" width="45%" /></a>
+<a href="https://twitter.com/time4gametheory/status/828868628988755970"><img src="https://pbs.twimg.com/media/C4C7n8kWAAA5dJJ.jpg" width="45%" /></a>
+
 ## 1. Create a Twitter account
 
 Or if you already have one, you can use that.
