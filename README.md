@@ -15,7 +15,7 @@ into this:
 Hello World
 ```
 
-Tokens (wrapped with a hash like this `#hash#`) are expanded from this:
+Tokens (wrapped with a hash like `#this#`) are expanded from this:
 ```
 {
   "origin" : "Hello #planets#",
