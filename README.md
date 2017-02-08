@@ -5,7 +5,7 @@
 It uses [Tracery](https://github.com/galaxykate/tracery) to generate content from JSON source.
 
 At it's simplest, it turns this:
-```
+```javascript
 {
   "origin" : "Hello World"
 }
@@ -16,7 +16,7 @@ Hello World
 ```
 
 Tokens (wrapped with a hash like `#this#`) are expanded from this:
-```
+```javascript
 {
   "origin" : "Hello #planets#",
   "planets" : ["Mercury", "Venus", "Mars", "Earth"],
