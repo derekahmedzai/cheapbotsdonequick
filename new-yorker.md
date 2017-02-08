@@ -37,7 +37,11 @@ Click the "Tweet" button. If you don't like the current picture, click the reloa
 
 Choose how often to tweet. Once an hour is plenty!
 
-## 6. Make it yours
+## 6. Save it
+
+Don't forget to save it!
+
+## 7. Make it yours
 
 ### Easy
 * change the text by editing the "text" value. Some characters, like quotes and hashtags need to be escaped (with a slash `\`)
@@ -48,6 +52,6 @@ Choose how often to tweet. Once an hour is plenty!
 * use SVG filters to change the image - colour, blur, flip it
 * change the font. You can use system fonts or even include Google webfonts
 
-## 7. Common problems
+## 8. Common problems
 
 * Twitter might lock your account for "unusual tweeting". Add your phone number to unlock your account - you can remove your phone number from your account after unlocking it
