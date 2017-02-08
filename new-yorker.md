@@ -49,5 +49,4 @@ Choose how often to tweet. Once an hour is plenty!
 
 ## 7. Common problems
 
-* Twitter might lock your account for "unusual tweeting". 
-  You can add your phone number to unlock your account - you can remove your phone number from your account after unlocking it
+* Twitter might lock your account for "unusual tweeting". Add your phone number to unlock your account - you can remove your phone number from your account after unlocking it
