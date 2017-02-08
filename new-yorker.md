@@ -9,7 +9,7 @@ Yes, you too can make a bot that spews out pictures like these:
 
 Or if you already have one, you can use that.
 
-## 2. Cheap Bots, Done Quick!
+## 2. Create a Cheap Bots, Done Quick! bot
 
 Go to [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) and click the "Sign in with Twitter" button
 
