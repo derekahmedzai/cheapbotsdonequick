@@ -1,5 +1,7 @@
 # Making twitter bots using Cheap Bots Done Quick
 
+[Cheap Bots, Done Quick](http://cheapbotsdonequick.com/) is a platform for generative Twitter bots.
+
 ## Make your own New Yorker cartoon Twitter bot
 
 ### Steps
