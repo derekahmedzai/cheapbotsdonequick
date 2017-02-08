@@ -9,7 +9,7 @@ Or if you already have one, you can use that.
 Go to [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) and click the "Sign in with Twitter" button
 
 ## 3. Paste this JSON / Tracery code
-```
+```javascript
 {
  "ABOUT": "this bot tweets a random New Yorker cartoon and add the words 'Guys. It's time for some game theory' at the bottom."
 ,"MADE BY": "@derekahmedzai"
@@ -30,7 +30,7 @@ Click the "Tweet" button. If you don't like the current picture, click the reloa
 
 ## 5. Set a schedule
 
-
+Choose how often to tweet. Once an hour is plenty!
 
 ## 6. Make it yours
 
