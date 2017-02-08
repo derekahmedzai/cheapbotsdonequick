@@ -39,7 +39,7 @@ Choose how often to tweet. Once an hour is plenty!
 
 ## 6. Save it
 
-Don't forget to save it!
+Don't forget to save it! And share the code if you are feeling generous :)
 
 ## 7. Make it yours
 
