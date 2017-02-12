@@ -44,7 +44,7 @@ Here are a few bots that use SVG to create random images
 -------------|------------------|------------------|-----------------
 <a href="https://twitter.com/sadkeanubot"><img src="https://pbs.twimg.com/media/C4CyQpaXAAAAssZ.jpg:large" /></a> | <a href="https://twitter.com/badphotoquality"><img src="https://pbs.twimg.com/media/C4FfBLVWQAA0DxE.jpg:large" /></a> | <a href="https://twitter.com/time4gametheory"><img src="https://pbs.twimg.com/media/C4FuJerW8AA4jOn.jpg:large" /></a> | <a href="https://twitter.com/trumptaxbot"><img src="https://pbs.twimg.com/media/C4dz8HsWQAE4tXl.jpg:large" /></a>
 places a pic of Keanu on a random photo|applies blur or posterise filter to a photo and overlays the date|overlays text on a random New Yorker cartoon|calculates how much tax payers are paying for Trump's personal life
-[source](http://cheapbotsdonequick.com/source/sadkeanubot) | [source](http://cheapbotsdonequick.com/source/badphotoquality) | [source](http://cheapbotsdonequick.com/source/time4gametheory) | [source](http://cheapbotsdonequick.com/source/trumptaxbot)
+[view the source](http://cheapbotsdonequick.com/source/sadkeanubot) | [view the source](http://cheapbotsdonequick.com/source/badphotoquality) | [view the source](http://cheapbotsdonequick.com/source/time4gametheory) | [view the source](http://cheapbotsdonequick.com/source/trumptaxbot)
 
 ## Image twitter bot tutorials
 * [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md)
