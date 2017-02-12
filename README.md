@@ -1,8 +1,8 @@
 # Making twitter bots using Cheap Bots, Done Quick!
 
-* [What is it](#what-is-it)
-* [SVG and dynamic content](#svg-and-dynamic-content)
-* [Image twitter bot tutorials](#image-twitter-bot-tutorials)
+- [What is it](#what-is-it)
+- [SVG and dynamic content](#svg-and-dynamic-content)
+- [Image twitter bot tutorials](#image-twitter-bot-tutorials)
 
 ## What is it?
 [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) is a platform for generative Twitter bots.
@@ -36,8 +36,8 @@ Hello Earth
 ```
 
 Here are a couple of good Cheap Bots Done Quick tutorials
-https://github.com/codekitchensd/2016-03-24-twitterbots
-http://barrl.net/2767
+- https://github.com/codekitchensd/2016-03-24-twitterbots
+- http://barrl.net/2767
 
 ## SVG and dynamic content
 Now plain text tweets are great, but the reason that I love Cheap Bots Done Quick is that you can create and tweet images using SVG.
