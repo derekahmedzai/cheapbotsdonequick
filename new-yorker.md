@@ -18,11 +18,11 @@ Go to [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) and click the "S
 {
  "ABOUT": "this bot tweets a random New Yorker cartoon and add the words 'Guys. It's time for some game theory' at the bottom."
 ,"MADE BY": "@derekahmedzai"
-,"NOTES": "uses New Yorker's random cartoon API to get the image. CBDQ can't use that directly as it is JSON, so created a @Gomixme app to expose the image to CBDQ. The source for that is at https://gomix.com/#!/project/new-yorker-cartoon-url"
+,"NOTES": "uses New Yorker's random cartoon API to get the image. CBDQ can't use that directly as it is JSON, so created a @Glitch app to expose the image to CBDQ. The source for that is at https://glitch.com/edit/#!/project/new-yorker-cartoon-url"
 ,"origin": "#guysitstimeforsomegametheory#"
 ,"guysitstimeforsomegametheory": "#text# #hashtag##svg#"
 ,"svg": "{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"1024\" height=\"512\" style=\"position: relative; background: white;\"><image x=\"0\" y=\"0\" width=\"1024\" height=\"482\" xlink:href=\"#new_yorker_image#\" id=\"img\" />#caption#</svg>}"
-,"new_yorker_image": "https://new-yorker-cartoon-url.gomix.me/image"
+,"new_yorker_image": "https://new-yorker-cartoon-url.glitch.me/image"
 ,"caption" : "<foreignObject  x='0' y='0' width='1024' height='512'><p xmlns=\"http://www.w3.org/1999/xhtml\"><p style='position: absolute; left: 0px; bottom: 10px; width: 1024px; line-height: 1; margin: 0; padding: 0; text-align: center; font-size:20px; font-weight: normal; color:rgba(0, 0, 0, 0.9); font-family:\"Georgia\"; font-style: italic;'>#text#</p></p></foreignObject>"
 ,"text": "\"Guys. It's time for some game theory.\""
 ,"hashtag": ["\\#gametheory", "\\#thread", ""]
