@@ -35,10 +35,6 @@ Hello Mars
 Hello Earth
 ```
 
-Here are a couple of good Cheap Bots Done Quick tutorials
-- https://github.com/codekitchensd/2016-03-24-twitterbots
-- http://barrl.net/2767
-
 ## SVG and dynamic content
 Now plain text tweets are great, but the reason that I love Cheap Bots Done Quick is that you can create and tweet images using SVG.
 Also, you can create dynamic content using Javascript in SVG - for example, writing the date, or loading external content.
@@ -53,3 +49,7 @@ places a pic of Sad Keanu on a random photo of a chair|applies blur or posterise
 
 ## Image twitter bot tutorials
 * [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md)
+
+## Other Cheap Bots Done Quick tutorials
+* [Making twitter bots with Tracery and CheapBotsDoneQuick](https://github.com/codekitchensd/2016-03-24-twitterbots)
+* [Make your own @hydratebot: a tutorial for non-coders](http://barrl.net/2767)
