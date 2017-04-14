@@ -16,9 +16,9 @@ Go to [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) and click the "S
 ## 3. Paste this JSON / Tracery code
 ```javascript
 {
- "ABOUT": "this bot tweets a random New Yorker cartoon and add the words 'Guys. It's time for some game theory' at the bottom."
-,"MADE BY": "@derekahmedzai"
-,"NOTES": "uses New Yorker's random cartoon API to get the image. CBDQ can't use that directly as it is JSON, so created a @Glitch app to expose the image to CBDQ. The source for that is at https://glitch.com/edit/#!/project/new-yorker-cartoon-url"
+ "ABOUT": "what does this bot do?"
+,"MADE BY": "your name goes here"
+,"NOTES": "based on 'Make your own New Yorker cartoon Twitter' bot https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md by @derekahmedzai"
 ,"origin": "#guysitstimeforsomegametheory#"
 ,"guysitstimeforsomegametheory": "#text# #hashtag##svg#"
 ,"svg": "{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"1024\" height=\"512\" style=\"position: relative; background: white;\"><image x=\"0\" y=\"0\" width=\"1024\" height=\"482\" xlink:href=\"#new_yorker_image#\" id=\"img\" />#caption#</svg>}"
