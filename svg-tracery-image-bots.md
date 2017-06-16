@@ -30,12 +30,11 @@ Here's what that looks like:
 
 It's all Tracery, so you can put symbols anywhere you like. This example loads a randomly selected image:
 > {
-  "origin": "*nonsensical infographics - http://www.chadhagen.com/nonsensical-infographics* {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"*512*\\" height=\\"*512*\\"><image width=\\"*512*\\" height=\\"*512*\\" xlink:href=\\"*#image#*\\" /><\/svg>}",
+  "origin": "*over the garden wall* {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"*540*\\" height=\\"*380*\\"><image width=\\"*540*\\" height=\\"*380*\\" xlink:href=\\"*#image#*\\" /><\/svg>}",
   "image": ["https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2F99d6595b-3e04-44f1-9fc4-fde9852eb51f.jpg", "http://deadshirt.net/wp-content/uploads/2014/11/1.jpg"]
 }
 
 Here's what that looks like:
 
-<img src="https://www.dropbox.com/s/sotpa2z0cq0r61k/2017-06-16_23-45-18.png?raw=1" width="45%" />
-<img src="https://www.dropbox.com/s/v4xi3iu3buzc4zr/2017-06-16_23-42-54.png?raw=1" width="45%" />
+<img src="https://www.dropbox.com/s/sotpa2z0cq0r61k/2017-06-16_23-45-18.png?raw=1" width="45%" /> <img src="https://www.dropbox.com/s/v4xi3iu3buzc4zr/2017-06-16_23-42-54.png?raw=1" width="45%" />
 
