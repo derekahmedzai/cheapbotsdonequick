@@ -72,6 +72,20 @@ Much better!
 
 <img src="https://www.dropbox.com/s/kpg7k09vg1lj00e/2017-06-17_00-20-39.png?raw=1" width="45%" />
 
+## Motivational poster bot
+
+Put it all together and we can create a fake motivational poster bot. This one loads a random image, creates a nonsense sentence, and uses the same text in the tweet as well as in the image (using Tracery variables)
+
+> {
+	"origin" : ["#statement_with_image#"],
+  "statement_with_image" : ["[statement:#statement.capitalize#] #statement# {svg <svg xmlns=\\"http://www.w3.org/2000/svg\\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\\" version=\\"1.1\\" width=\\"890\\" height=\\"525\\" style=\\"position: relative;\\"><image x=\\"0\\" y=\\"0\\" width=\\"890\\" height=\\"525\\" xlink:href=\\"#image#\\" /><foreignObject x=\\"0\\" y=\\"0\\" width=\\"890\\" height=\\"525\\"><p style=\\"padding: 2%; width: 90%; font-size:80px; line-height:1.2; color:rgba(255, 255, 255, 1); font-family:'Luckiest Guy'; text-align:center; 0; position: absolute; bottom: 0px; background-color: rgba(0, 0, 0, 0.5); margin:5%;\\">#statement#<\/p><\/foreignObject><style type=\\"text/css\\">@import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);<\/style><\/svg>}"],
+	"googlefont" : ["Luckiest Guy"],
+	"image" : ["https://static.pexels.com/photos/6546/sky-night-space-trees-large.jpeg", "https://static.pexels.com/photos/94847/pexels-photo-94847-large.jpeg", "https://static.pexels.com/photos/96377/pexels-photo-96377-large.jpeg", "https://static.pexels.com/photos/96414/pexels-photo-96414-large.jpeg", "https://static.pexels.com/photos/96375/pexels-photo-96375-large.jpeg", "https://static.pexels.com/photos/95632/pexels-photo-95632-large.jpeg"],
+  "statement": ["wake up and #sense# the #thing#"],
+	"sense" : ["smell", "enjoy", "taste"],
+	"thing" : ["coffee", "tea", "marmite", "peanut butter", "milk", "orange juice", "granola"]
+}
+
 ## Coming soon
 * overlaying images on top of each other
 * using SVG filters to modify images
