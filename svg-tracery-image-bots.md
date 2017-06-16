@@ -86,7 +86,7 @@ Put it all together and we can create a fake motivational poster bot. This one l
 	"thing" : ["coffee", "tea", "marmite", "peanut butter", "milk", "orange juice", "granola"]
 }
 
-<img src="https://www.dropbox.com/s/zz826h26e6kpfsi/2017-06-17_00-46-42.png?raw=1" width="45%" /> <img src="https://www.dropbox.com/s/0iy04x0evuhflyz/2017-06-17_00-47-49.png?raw=1" width="45%" />
+<img src="https://www.dropbox.com/s/zz826h26e6kpfsi/2017-06-17_00-46-42.png?raw=1" width="45%" /> <img src="https://www.dropbox.com/s/vvn62un1il7h1eo/2017-06-17_00-48-58.png?raw=1" width="45%" />
 
 ## Coming soon
 * overlaying images on top of each other
