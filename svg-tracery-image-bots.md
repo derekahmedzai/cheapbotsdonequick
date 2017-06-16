@@ -13,8 +13,8 @@ You can paste the following examples into CBDQ and they should just work.
 
 Things to note: you need to escape any double quotes (so `"` becomes `\"`) and you need to define the width and height of the image. I think you can use any size you like, but I usually use 1024x512 pixels as it shows up complete and uncropped in the Twitter and Tweetdeck timelines.
 
-## Just an image
-To include an image use the `<image>` SVG tag. You don't need to define the width or height but it's helpful.
+## Embed an image
+To include an image use the `<image>` SVG tag. You don't need to define the width or height but it's helpful. You can host the images anywhere - I use Dropbox a lot.
 > {
   "origin": "*any text / link you like* {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"*width*\\" height=\\"*height*\\"><image width=\\"*width*\\" height=\\"*height*\\" xlink:href=\\"*path to your image*\\" /><\/svg>}"
 }
