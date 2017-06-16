@@ -38,3 +38,25 @@ Here's what that looks like:
 
 <img src="https://www.dropbox.com/s/sotpa2z0cq0r61k/2017-06-16_23-45-18.png?raw=1" width="45%" /> <img src="https://www.dropbox.com/s/v4xi3iu3buzc4zr/2017-06-16_23-42-54.png?raw=1" width="45%" />
 
+## Adding text to your image
+
+To add text use the `<text>` SVG tag.
+
+> {
+  "origin": "plain text {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"500\\" height=\\"391\\"><image width=\\"500\\" height=\\"391\\" xlink:href=\\"https://s-media-cache-ak0.pinimg.com/736x/ae/fb/9a/aefb9a99eab8f0eebdb0c599a78b1b75.jpg\" /><text x=\\"256\\" y=\\"300\\" font-size=\\"30\\" text-anchor=\\"middle\\">WHAT IS GOING ON HERE???<\/text><\/svg>}"
+}
+
+Play around with the `x` and `y` values to move the text around. Setting `text-anchor="middle"` means the text is centred.
+
+But we can do better and style the text.
+
+> {
+  "origin": "nicer text {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"500\\" height=\\"391\\"><image width=\\"500\\" height=\\"391\\" xlink:href=\\"https://s-media-cache-ak0.pinimg.com/736x/ae/fb/9a/aefb9a99eab8f0eebdb0c599a78b1b75.jpg\" />*<text x=\\"256\\" y=\\"300\\" font-size=\\"30\\" stroke=\\"black\\" stroke-width=\\"1\\" fill=\\"white\\" text-anchor=\\"middle\\" style=\\"font-family: Impact\\">WHAT IS GOING ON HERE???<\/text>*<\/svg>}"
+}
+
+We're limited to the fonts installed on the computer that runs CBDQ, which isn't much. Happily we can embed webfonts (you can choose form about a million here https://fonts.google.com/)
+
+> {
+  "origin": "pretty text using a webfont {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"500\\" height=\\"391\\"><image width=\\"500\\" height=\\"391\\" xlink:href=\\"https://s-media-cache-ak0.pinimg.com/736x/ae/fb/9a/aefb9a99eab8f0eebdb0c599a78b1b75.jpg\" /><text x=\\"256\\" y=\\"300\\" font-family=\\"Luckiest Guy\\"  font-size=\\"30\\" stroke=\\"black\\" stroke-width=\\"1\\" fill=\\"white\\" text-anchor=\\"middle\\" style=\\"font-family:'Luckiest Guy'\\">WHAT IS GOING ON HERE???<\/text><style type=\\"text/css\\">@import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);<\/style><\/svg>}"
+}
+
