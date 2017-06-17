@@ -68,9 +68,9 @@ We're limited to the fonts installed on the computer that runs CBDQ, which isn't
   "origin": "pretty text using a webfont {svg <svg xmlns=\\"http://www.w3.org/2000/svg\" xmlns:xlink=\\"http://www.w3.org/1999/xlink\" width=\\"500\\" height=\\"391\\"><image width=\\"500\\" height=\\"391\\" xlink:href=\\"https://s-media-cache-ak0.pinimg.com/736x/ae/fb/9a/aefb9a99eab8f0eebdb0c599a78b1b75.jpg\" /><text x=\\"256\\" y=\\"300\\" font-family=\\"Luckiest Guy\\"  font-size=\\"30\\" stroke=\\"black\\" stroke-width=\\"1\\" fill=\\"white\\" text-anchor=\\"middle\\" style=\\"font-family:'Luckiest Guy'\\">WHAT IS GOING ON HERE???<\/text><style type=\\"text/css\\">@import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);<\/style><\/svg>}"
 }
 
-Much better!
-
 <img src="https://www.dropbox.com/s/kpg7k09vg1lj00e/2017-06-17_00-20-39.png?raw=1" width="45%" />
+
+Much better!
 
 ## Motivational poster bot
 
