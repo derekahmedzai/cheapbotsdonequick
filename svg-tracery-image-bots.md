@@ -2,7 +2,7 @@
 
 To create images we need to use SVG. CBDQ takes a screenshot of the SVG image and creates a JPG which it uploads to Twitter.
 
-A tweet with SVG will look like this: `your usual tweet text {svg <svg>YOUR SVG CODE</svg>}`. Pretty much any SVG will work.
+A tweet with SVG will look like this: `"origin": "your usual tweet text {svg <svg>YOUR SVG CODE</svg>}"`. Pretty much any SVG will work.
 
 You can paste the following examples into CBDQ and they should just work.
 
