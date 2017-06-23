@@ -48,6 +48,7 @@ places a pic of Sad Keanu on a random photo of a chair|applies blur or posterise
 [view the source](http://cheapbotsdonequick.com/source/sadkeanubot) | [view the source](http://cheapbotsdonequick.com/source/badphotoquality) | [view the source](http://cheapbotsdonequick.com/source/time4gametheory) | [view the source](http://cheapbotsdonequick.com/source/trumptaxbot)
 
 ## Image twitter bot tutorials
+* [Creating image bots using SVG and Tracery](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md)
 * [Make your own New Yorker cartoon Twitter bot](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/new-yorker.md)
 
 ## Other Cheap Bots Done Quick tutorials
