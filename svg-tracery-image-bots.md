@@ -89,10 +89,10 @@ Put it all together and we can create a fake motivational poster bot. This one l
 <img src="https://www.dropbox.com/s/zz826h26e6kpfsi/2017-06-17_00-46-42.png?raw=1" width="45%" /> <img src="https://www.dropbox.com/s/vvn62un1il7h1eo/2017-06-17_00-48-58.png?raw=1" width="45%" />
 
 ## Coming soon
-* overlaying images on top of each other
-  eg. [@sadkeanubot](https://twitter.com/sadkeanubot), [@jakerunningbot] (https://twitter.com/jakerunningbot)
-* using SVG filters to modify images
+* overlaying images on top of each other 
+  eg. [@sadkeanubot](https://twitter.com/sadkeanubot), [@jakerunningbot](https://twitter.com/jakerunningbot)
+* using SVG filters to modify images 
   eg. [@badphotoquality](https://twitter.com/badphotoquality), [@computerzooom](https://twitter.com/computerzooom)
-* using javscript to modify SVG content
+* using javscript to modify SVG content 
   eg. [@botlifemagazine](https://twitter.com/botlifemagazine), [@sleeps_xmas](https://twitter.com/sleeps_xmas)
 
