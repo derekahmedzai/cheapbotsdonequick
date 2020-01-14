@@ -95,7 +95,7 @@ Put it all together and we can create a fake motivational poster bot. This one l
 * using SVG filters to modify images
 
   eg. [@badphotoquality](https://twitter.com/badphotoquality), [@computerzooom](https://twitter.com/computerzooom)
-* using javscript to modify SVG content
+* using javascript to modify SVG content
 
   eg. [@botlifemagazine](https://twitter.com/botlifemagazine), [@sleeps_xmas](https://twitter.com/sleeps_xmas)
 
